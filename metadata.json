@@ -1,0 +1,7 @@
+{
+  "name": "SITE REI DO BOX",
+  "description": "A high-end glass shower enclosure company website featuring AI-powered bathroom space analysis using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
